@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataObjects.cs](./CS/RangeColorizerSample/DataObjects.cs) (VB: [DataObjects.vb](./VB/RangeColorizerSample/DataObjects.vb))
+* **[Form1.cs](./CS/RangeColorizerSample/Form1.cs) (VB: [Form1.vb](./VB/RangeColorizerSample/Form1.vb))**
+<!-- default file list end -->
 # How to: Color TreeMap items using Range Colorizer
 
 
